@@ -26,7 +26,7 @@ RSpec.describe 'the songs show page'do
 # I click link to song
 # I see title, length, play count
 
-expect(page).to have_content(song.)
+# expect(page).to have_content(song.)
 
 # As a user
 # When I visit a Song show page
