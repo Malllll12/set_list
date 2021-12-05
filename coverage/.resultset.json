@@ -252,6 +252,7 @@
           null,
           1,
           1,
+          1,
           null,
           null
         ]
@@ -259,6 +260,39 @@
       "/Users/malloryvining/turing/mod_2/set_list/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/malloryvining/turing/mod_2/set_list/spec/features/artists/edit_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -440,7 +474,7 @@
         "lines": [
           1,
           1,
-          5,
+          7,
           null,
           null,
           1,
@@ -451,9 +485,6 @@
           1,
           1,
           null,
-          null,
-          1,
-          2,
           null,
           null,
           1,
@@ -464,6 +495,17 @@
           1,
           1,
           1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          2,
           null,
           null
         ]
@@ -498,6 +540,6 @@
         ]
       }
     },
-    "timestamp": 1638720353
+    "timestamp": 1638721652
   }
 }
